@@ -1,5 +1,8 @@
 # GoblinMaid_AI
 
+![GoblinMaid_AI screenshot](images/screenshot.png)
+
+
 GoblinMaid_AI is a paid desktop AI assistant built in Python.
 It runs locally on Windows and does not require a subscription.
 

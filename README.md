@@ -3,7 +3,7 @@
 GoblinMaid_AI is a paid desktop AI assistant built in Python.
 It runs locally on Windows and does not require a subscription.
 
-This repository serves as the **official project page**.
+This repository serves as the **official project page** for the app.
 
 ## Key Features
 - Desktop AI assistant for Windows
@@ -15,7 +15,7 @@ This repository serves as the **official project page**.
 GoblinMaid_AI is available as a paid application.
 
 👉 Buy & download (official source):  
-https://gumroad.com/l/GoblinMaid_AI
+https://tomaszek4.gumroad.com/l/xbvha
 
 ## Security Notice (Important)
 GoblinMaid_AI is distributed as a Windows `.exe` file.

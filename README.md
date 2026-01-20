@@ -6,9 +6,15 @@ It runs locally on Windows and does not require a subscription.
 This repository serves as the **official project page** for the app.
 
 ## Key Features
-- Desktop AI assistant for Windows
-- Runs locally
-- No subscriptions or recurring fees
+-Desktop AI assistant for Windows
+
+-Voice Commands
+
+-Deep AI Scan
+
+- One-time purchase ($5)
+
+- AI-powered productivity tools
 - One-time purchase ($5)
 
 ## Purchase & Download
